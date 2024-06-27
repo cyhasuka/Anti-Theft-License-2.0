@@ -1,13 +1,12 @@
 # Anti-Theft-License-2.0
-The Anti Theft License 2.0 is based on Apache 2.0 licence and prevents illegal sites from mirroring source code without permission.
 
----
+The Anti Theft License 2.0 is based on Apache 2.0 licence and prevents illegal sites from mirroring source code without permission.
 
 **Supplementary Terms for Apache License 2.0**
 
 This supplementary document amends the Apache License 2.0 as follows:
 
-10. Prohibition on Unauthorized Distribution and Mirroring.
+Prohibition on Unauthorized Distribution and Mirroring.
 
     (a) You may not distribute or mirror the Work or Derivative Works thereof on any platform that is not explicitly authorized by the Licensor. This includes but is not limited to open source platforms, code hosting services, and repositories.
 
@@ -18,6 +17,7 @@ This supplementary document amends the Apache License 2.0 as follows:
     (d) This Supplementary Terms document must be included with all copies or substantial portions of the Work or Derivative Works that are distributed in any form.
 
 By using, reproducing, or distributing the Work or Derivative Works thereof, you agree to comply with these Supplementary Terms in addition to the terms and conditions of the Apache License 2.0.
+
 ---
 
 Licensed under the Apache License, Version 2.0 (the "License");
